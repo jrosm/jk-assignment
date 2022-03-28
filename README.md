@@ -17,3 +17,8 @@ This is **_also_** bold and italics!!!
 > This is a blockquote.
 > This is also part of the blockquote.
 
+Want to create a list?
+* Item 1
+* Item 2
+* Item 3
+
