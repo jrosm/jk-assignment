@@ -8,3 +8,4 @@ This is __also__ a bold sentence.
 ***This is bold AND italics!!!***
 This is **_also_** bold and italics!!!
 *__This too...__*
+~~But this is a strikethrough.~~
