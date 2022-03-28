@@ -27,3 +27,9 @@ Want to create a list?
 
 - Item 1
 - Item 2
+
+Want to create numbered items?
+1. Item 1
+2. Item 2
+3. Item 3
+
