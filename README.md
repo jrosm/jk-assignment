@@ -34,6 +34,6 @@ Want to create numbered items?
 3. Item 3
 
 Here's how to add a link:
-![Link to Github]
+[Link to Github]
 (https://github.com)
 
