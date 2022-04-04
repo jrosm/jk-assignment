@@ -33,3 +33,7 @@ Want to create numbered items?
 2. Item 2
 3. Item 3
 
+Here's how to add a link:
+[Link to Github]
+(https://github.com)
+
