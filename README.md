@@ -37,5 +37,5 @@ Here's how to add a link:
 [Link to Github](https://github.com)
 
 Here's how to add an image:
-![Image Alt Text](images/2001.jpeg)
+![Image Alt Text](Insert image location here)
 
