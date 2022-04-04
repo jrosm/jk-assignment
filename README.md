@@ -36,3 +36,6 @@ Want to create numbered items?
 Here's how to add a link:
 [Link to Github](https://github.com)
 
+Here's how to add an image:
+![Image Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fview&psig=AOvVaw3CL6t4qyXFrXRWexCXZ3Il&ust=1649188123653000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNi5u9SW-_YCFQAAAAAdAAAAABAD)
+
